@@ -1,6 +1,6 @@
 # Farmdrop Code Test (JavaScript)
 
-This test must be written using React and Redux.
+This test must be written using React.
 
 You can use any React boilerplate to help you get started (e.g. Create React App or Next.js)
 
@@ -29,16 +29,11 @@ Simulate adding the product to the basket using Redux.
 
 ## Mobile Friendly
 
-We haven't provided you with mobile designs but it should be responsive so I can work accross mobile and desktop
+We haven't provided you with mobile designs but it should be responsive it can work across mobile and desktop
 
 ## Testing
 
-Please write unit tests using Jest
-
-## Bonus points
-
-- Managing side-effects (adding to basket for example)
-- Add component tests
+Please write some tests. It doesn't have to be a fully working test suite.
 
 ## Submission
 
