@@ -1,5 +1,5 @@
 {
-  productSearch(query: "Lamb Roasting Joints", first: 100) {
+  productSearch(query: "Lamb Roasting Joints", first: 25) {
     nodes {
       name
       producer {
@@ -7,9 +7,6 @@
       }
       measurement {
         displayName
-      }
-      tags(type: "marketing") {
-        name
       }
       pricePerUnit
       media {
