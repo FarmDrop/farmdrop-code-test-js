@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Apercu';
+  src: url('//fd-v5-api.imgix.net/assets/fonts/apercu-regular/apercu-regular-pro.woff2')
+      format('woff2'),
+    url('//fd-v5-api.imgix.net/assets/fonts/apercu-regular/apercu-regular-pro.woff')
+      format('woff'),
+    url('//fd-v5-api.imgix.net/assets/fonts/apercu-regular/apercu-regular-pro.ttf')
+      format('ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Apercu';
+  src: url('//fd-v5-api.imgix.net/assets/fonts/apercu-bold/apercu-bold-pro.woff2')
+      format('woff2'),
+    url('//fd-v5-api.imgix.net/assets/fonts/apercu-bold/apercu-bold-pro.woff') format('woff'),
+    url('//fd-v5-api.imgix.net/assets/fonts/apercu-bold/apercu-bold-pro.ttf') format('ttf');
+  font-weight: bold;
+}

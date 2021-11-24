@@ -9,7 +9,7 @@ It has been split into two parts:
 ## Product cards
 
 Using the [supporting data file](data/products.json) or the graphql [endpoint](https://staging-graphql-gateway.farmdrop.com/graphql), display a grid of product cards matching the [design](mockups/products.png) as close as possible. Please ignore the "Family Roasts" overlay green tag. 
-We have provided [fonts](fonts) for you which are similar to the fonts we use at Farmdrop and a set of svg [icons](icons).
+We have provided base [style.css](style.css) for the fonts for you, which are similar to the fonts we use at Farmdrop and a set of svg [icons](icons).
 
 We have attached the query which you can use for the graphql endpoint [here](graphql-query/query.txt)
 
