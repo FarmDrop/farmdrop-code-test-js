@@ -8,17 +8,18 @@ It has been split into two parts:
 
 ## Product cards
 
-Using the [supporting data file](data/products.json) or the graphql [endpoint](https://staging-graphql-gateway.farmdrop.com/graphql), display a grid of product cards matching the [design](mockups/products.png) as close as possible. Please ignore the "Family Roasts" overlay green tag. 
-We have provided base [style.css](style.css) for the fonts for you, which are similar to the fonts we use at Farmdrop and a set of svg [icons](icons).
+Using the [supporting data file](data/products.json) or the graphql [endpoint](https://staging-graphql-gateway.farmdrop.com/graphql), display a grid of product cards matching the [design](mockups/products.png) as close as possible. Ignore any minor variations in font sizes, element dimensions, etc...
+We have provided base [style.css](style.css) for the fonts and used colors and a set of svg [icons](icons).
 
 We have attached the query which you can use for the graphql endpoint [here](graphql-query/query.txt)
 
 - Each product has one or more variants. The information in the root of each node is the default variant. If the product has any additional `variants` (contained within the variants nested property) display them in a drop-down;
 - Clicking on a variant in the drop-down will update the price on the product card `e.g. £12.10` and the price per unit `e.g. £25.20/kg`;
 - If the product has no variants show the display name;
-- If there is a sale price show the old price with a strikethrough and show the sale price in red as per the design;
-- If there is sale text show in red beneath the dropdown;
-- The width of each card in the grid should be dynamic never smaller than 200px and never larger than 360px.
+- The width of each card in the grid should be dynamic never smaller than 200px and never larger than 360px;
+- In terms of browser compatibility, aim to support [this browserlist](https://browserslist.dev/?q=ZGVmYXVsdHMsIG5vdCBJRSAxMSwgbm90IDwgMC41JQ%3D%3D);
+- Style the producer link but no need to generate a valid `href` for it;
+- If you are not doing the bonus functionality, you can ignore the quantity controls and the product image overlay.
 
 ## Testing
 

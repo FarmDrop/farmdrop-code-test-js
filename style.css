@@ -17,3 +17,13 @@
     url('//fd-v5-api.imgix.net/assets/fonts/apercu-bold/apercu-bold-pro.ttf') format('ttf');
   font-weight: bold;
 }
+
+:root {
+  --font-family-main: 'Apercu', 'sans-serif';
+  --font-size-body: 1.5rem;
+  --color-black: #231f1f;
+  --color-green-primary: #00b495;
+  --color-green-light: #ecf1ea;
+  --color-green-dark: #315350;
+  --color-grey: #7b7979;
+}

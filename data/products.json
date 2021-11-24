@@ -19,11 +19,9 @@
             }
           ],
           "variants": [],
-          "saleText": null,
           "price": {
             "pence": 3198
-          },
-          "salePrice": null
+          }
         },
         {
           "name": "Organic Rolled Loin",
@@ -42,11 +40,9 @@
             }
           ],
           "variants": [],
-          "saleText": null,
           "price": {
             "pence": 3333
-          },
-          "salePrice": null
+          }
         },
         {
           "name": "Shetland X Romney Lamb Leg (Butterflied)",
@@ -65,11 +61,9 @@
             }
           ],
           "variants": [],
-          "saleText": null,
           "price": {
             "pence": 4400
-          },
-          "salePrice": null
+          }
         },
         {
           "name": "100% Pasture Fed Organic Lamb Neck Fillet",
@@ -88,11 +82,9 @@
             }
           ],
           "variants": [],
-          "saleText": null,
           "price": {
             "pence": 739
-          },
-          "salePrice": null
+          }
         },
         {
           "name": "100% Pasture Fed Organic Lamb Shank",
@@ -111,11 +103,9 @@
             }
           ],
           "variants": [],
-          "saleText": null,
           "price": {
             "pence": 1000
-          },
-          "salePrice": null
+          }
         },
         {
           "name": "Romney Lamb Shank",
@@ -134,11 +124,7 @@
             }
           ],
           "variants": [],
-          "saleText": null,
           "price": {
-            "pence": 720
-          },
-          "salePrice": {
             "pence": 720
           }
         },
@@ -166,16 +152,10 @@
               },
               "price": {
                 "pence": 859
-              },
-              "saleText": null,
-              "salePrice": null
+              }
             }
           ],
-          "saleText": null,
           "price": {
-            "pence": 891
-          },
-          "salePrice": {
             "pence": 891
           }
         },
@@ -203,16 +183,12 @@
               },
               "price": {
                 "pence": 3359
-              },
-              "saleText": null,
-              "salePrice": null
+              }
             }
           ],
-          "saleText": null,
           "price": {
             "pence": 2025
-          },
-          "salePrice": null
+          }
         },
         {
           "name": "100% Pasture Fed Organic Shoulder of Lamb",
@@ -243,16 +219,12 @@
               },
               "price": {
                 "pence": 3091
-              },
-              "saleText": null,
-              "salePrice": null
+              }
             }
           ],
-          "saleText": null,
           "price": {
             "pence": 1558
-          },
-          "salePrice": null
+          }
         },
         {
           "name": "Organic Lamb Leg (Bone In)",
@@ -278,16 +250,12 @@
               },
               "price": {
                 "pence": 4026
-              },
-              "saleText": null,
-              "salePrice": null
+              }
             }
           ],
-          "saleText": null,
           "price": {
             "pence": 2430
-          },
-          "salePrice": null
+          }
         },
         {
           "name": "Organic Lamb Shank",
@@ -306,11 +274,9 @@
             }
           ],
           "variants": [],
-          "saleText": null,
           "price": {
             "pence": 1296
-          },
-          "salePrice": null
+          }
         },
         {
           "name": "100% Pasture Fed Organic Lamb Rump",
@@ -329,535 +295,9 @@
             }
           ],
           "variants": [],
-          "saleText": null,
           "price": {
             "pence": 1075
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Organic Lamb Leg (Butterflied)",
-          "producer": {
-            "name": "Haye Farm"
-          },
-          "measurement": {
-            "displayName": "Small Joint (~1.2kg)"
-          },
-          "pricePerUnit": "£23.57/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/d9cbcbe62a7bdb33219968e6c300248b17a4ca27d0321264605e4836fd1c4d5a/Haye_Farm_Lamb_Leg_FD21Feb02_1.jpg",
-              "position": 1
-            }
-          ],
-          "variants": [
-            {
-              "pricePerUnit": "£23.49/kg",
-              "measurement": {
-                "displayName": "Large Joint (~2kg)"
-              },
-              "price": {
-                "pence": 4698
-              },
-              "saleText": null,
-              "salePrice": null
-            }
-          ],
-          "saleText": null,
-          "price": {
-            "pence": 2829
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Romney Lamb Shoulder",
-          "producer": {
-            "name": "Park Farm"
-          },
-          "measurement": {
-            "displayName": "Bone In (min. 2kg)"
-          },
-          "pricePerUnit": "£18.75/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/1ea70f2f7839dc0ed6413c8b6c43bb4e457b7810f1db5c335a5baccde7739f92/Park_Farm_Lamb_shoulder_FD20_June290148_1.jpg",
-              "position": 1
-            }
-          ],
-          "variants": [
-            {
-              "pricePerUnit": "£26.55/kg",
-              "measurement": {
-                "displayName": "Boned and Rolled (min. 1.5kg)"
-              },
-              "price": {
-                "pence": 3983
-              },
-              "saleText": null,
-              "salePrice": null
-            },
-            {
-              "pricePerUnit": "£26.50/kg",
-              "measurement": {
-                "displayName": "Butterflied (min. 1.1kg)"
-              },
-              "price": {
-                "pence": 2916
-              },
-              "saleText": null,
-              "salePrice": null
-            }
-          ],
-          "saleText": null,
-          "price": {
-            "pence": 3750
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Shetland X Romney Lamb Leg (Bone In)",
-          "producer": {
-            "name": "Fernhill Farm"
-          },
-          "measurement": {
-            "displayName": "Half Leg (1kg)"
-          },
-          "pricePerUnit": "£20.25/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/4f67492b1146417b7d20f247b4da4ac1b7aadf849a1cf432ed0dbaf26c3a05e0/Fernhill_Farm_Shetland_x_romney_half_leg_FD20_Sept7_1.jpg",
-              "position": 1
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/424b4b9196f473dd3e1c5a060238e9da81e1fee5508d9b5cb0f77dbaac26ac2c/untitled-3.jpg",
-              "position": 2
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/88069dc822bf3af35c57a88a3197de5827c7d8c7365f2f90fce82e25b00ffd7f/untitled-1.jpg",
-              "position": 3
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/95ab24869cdc494448cd3186676dc83d016cfe517ce4981eb6bf9d8ce2e62d04/untitled-2-2.jpg",
-              "position": 4
-            }
-          ],
-          "variants": [
-            {
-              "pricePerUnit": "£20.10/kg",
-              "measurement": {
-                "displayName": "Short Leg (2kg)"
-              },
-              "price": {
-                "pence": 4020
-              },
-              "saleText": null,
-              "salePrice": null
-            },
-            {
-              "pricePerUnit": "£19.70/kg",
-              "measurement": {
-                "displayName": "Long Leg (2.5kg)"
-              },
-              "price": {
-                "pence": 4925
-              },
-              "saleText": null,
-              "salePrice": null
-            }
-          ],
-          "saleText": null,
-          "price": {
-            "pence": 2025
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Romney Lamb Neck Fillet",
-          "producer": {
-            "name": "Park Farm"
-          },
-          "measurement": {
-            "displayName": "1 Fillet (min. 350g)"
-          },
-          "pricePerUnit": "£23.91/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/2874f78ad4b1390fa4d795abf9dd68f716eeaaa897491cceb16685fe002c86a4/lamb_neck130.jpg",
-              "position": 1
-            }
-          ],
-          "variants": [],
-          "saleText": null,
-          "price": {
-            "pence": 837
-          },
-          "salePrice": {
-            "pence": 837
           }
-        },
-        {
-          "name": "Shetland X Romney Lamb Rump",
-          "producer": {
-            "name": "Fernhill Farm"
-          },
-          "measurement": {
-            "displayName": "Pack (min. 250g)"
-          },
-          "pricePerUnit": "£30.68/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/11d1f7bb8b87dafe782552c2292c01815cf2e80213881812b4b902536d1bea39/Lamb_rump_Fernhill_FD20_August5_1.jpg",
-              "position": 1
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/0a114b0c803b9e5a3c65082b99c25ca2a2817ea2e2068ad1496f245af85e8cda/untitled-3.jpg",
-              "position": 2
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/412a338091349563f4bbf8cd7d22f0f8234b019c98663719962d07d4bf3a3197/untitled-1.jpg",
-              "position": 3
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/303115fb1648bd889bf01d5e1cc72487e0027b72cbdce1bc894842c3d764d1ae/untitled-2-2.jpg",
-              "position": 4
-            }
-          ],
-          "variants": [],
-          "saleText": null,
-          "price": {
-            "pence": 767
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Shetland X Romney Saddle of Lamb",
-          "producer": {
-            "name": "Fernhill Farm"
-          },
-          "measurement": {
-            "displayName": "Boned and Rolled Joint (1kg)"
-          },
-          "pricePerUnit": "£27.25/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/25517a602b6456a1d378f21308f260de646cd647fe5241f0177566c16b731513/The_Story_Saddle_of_LambFD21_Mar02.jpg",
-              "position": 1
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/8dde0e6ada20c4ce75064c86929dd0101b1122130a426098d698db2cf071d0a6/untitled-3.jpg",
-              "position": 2
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/c23aa7e9e9c6819cd379e8eb0709e103b3aab00b29775b95bf4d567a3deefff2/untitled-1.jpg",
-              "position": 3
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/9042155f3980347d2c9f047e708af7fde85d33fea65ca7f76a562701f3a9d3f1/untitled-2-2.jpg",
-              "position": 4
-            }
-          ],
-          "variants": [
-            {
-              "pricePerUnit": "£27.34/kg",
-              "measurement": {
-                "displayName": "Boned and Rolled Joint (1.5kg)"
-              },
-              "price": {
-                "pence": 4102
-              },
-              "saleText": null,
-              "salePrice": null
-            }
-          ],
-          "saleText": null,
-          "price": {
-            "pence": 2725
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Shetland X Romney Lamb Shank",
-          "producer": {
-            "name": "Fernhill Farm"
-          },
-          "measurement": {
-            "displayName": "1 Shank (300g)"
-          },
-          "pricePerUnit": "£20.96/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/073c556e41bca259fb27fef9db1ddc5fc423e3857fa0ef7d89ae7f73b086d97b/lamb_shanks118.jpg",
-              "position": 1
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/4e88ea4c928fb600bc0cc95f6eb82905093b412555a0b2fa55c0c897c642c39a/untitled-3.jpg",
-              "position": 2
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/c9e6bf7a10d35f1a52cecea9e774231028e3e686bf61fc2523730854adacb3e4/untitled-1.jpg",
-              "position": 3
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/1af95aba774c5f854c8ebe1bc5956e9b0141af1ce53fb01c626bce1d95ed2ed9/untitled-2-2.jpg",
-              "position": 4
-            }
-          ],
-          "variants": [],
-          "saleText": null,
-          "price": {
-            "pence": 629
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Shetland X Romney Lamb Neck Fillet",
-          "producer": {
-            "name": "Fernhill Farm"
-          },
-          "measurement": {
-            "displayName": "1 Fillet (min. 350g)"
-          },
-          "pricePerUnit": "£24.25/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/3550d9992482b979ce688acda491f7d2b14d619b28e249372fab47275cc4d9d7/Story_Shetland_Lamb_Neck_FilletsUntitled_Capture1503.jpg",
-              "position": 1
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/623d849dab24cfc765bf280a67118ada352e41eb0904f3975a0ba8ac09952cc3/untitled-3.jpg",
-              "position": 2
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/a4a6cd1de5f561698b75b0cd493b85e564cfbf86b3cb4b85dfa9e181af674225/untitled-1.jpg",
-              "position": 3
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/6a0d1ef0d3ce675e81a8fedc3587c318e0dee12d644cdddd8047e8eb6e0f4afe/untitled-2-2.jpg",
-              "position": 4
-            }
-          ],
-          "variants": [],
-          "saleText": null,
-          "price": {
-            "pence": 849
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Romney Lamb Leg",
-          "producer": {
-            "name": "Park Farm"
-          },
-          "measurement": {
-            "displayName": "Half Leg (1kg)"
-          },
-          "pricePerUnit": "£27.08/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/75572c1f8f56cc114e2601c8c1a029dfc99e4a839ae47c5c26b79fe00d02f5c4/Romney_leg_of_lamb81.jpg",
-              "position": 1
-            }
-          ],
-          "variants": [
-            {
-              "pricePerUnit": "£24.33/kg",
-              "measurement": {
-                "displayName": "Long Leg (2.5kg)"
-              },
-              "price": {
-                "pence": 6083
-              },
-              "saleText": null,
-              "salePrice": null
-            },
-            {
-              "pricePerUnit": "£27.08/kg",
-              "measurement": {
-                "displayName": "Short Leg (2kg)"
-              },
-              "price": {
-                "pence": 5416
-              },
-              "saleText": null,
-              "salePrice": null
-            }
-          ],
-          "saleText": null,
-          "price": {
-            "pence": 2708
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Shetland X Romney Lamb Shoulder",
-          "producer": {
-            "name": "Fernhill Farm"
-          },
-          "measurement": {
-            "displayName": "Bone In (min. 2kg)"
-          },
-          "pricePerUnit": "£14.96/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/ed063c282610bfffcdaf09ffa3f7af28cdf991b518ac94d611c804a8853dfe36/lamb_shoulder_178.jpg",
-              "position": 1
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/34498ac81511c21182c1bc54cdb7f231b6e3cc100b2238080cb40145af91d67b/untitled-3.jpg",
-              "position": 2
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/1a1a0ecc36056cd48cf465a06560ff51102753bece46b796d762d0dd7d1ba63e/untitled-1.jpg",
-              "position": 3
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/9c8d11ad00dd2aae58e249f25f0ad3d5c78e8f070bc60aa05888ef47b7580b28/untitled-2-2.jpg",
-              "position": 4
-            }
-          ],
-          "variants": [
-            {
-              "pricePerUnit": "£21.20/kg",
-              "measurement": {
-                "displayName": "Butterflied (min. 1kg)"
-              },
-              "price": {
-                "pence": 2120
-              },
-              "saleText": null,
-              "salePrice": null
-            },
-            {
-              "pricePerUnit": "£21.20/kg",
-              "measurement": {
-                "displayName": "Boned and Rolled (min. 1kg)"
-              },
-              "price": {
-                "pence": 2120
-              },
-              "saleText": null,
-              "salePrice": null
-            }
-          ],
-          "saleText": null,
-          "price": {
-            "pence": 2992
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Romney Saddle of Lamb",
-          "producer": {
-            "name": "Park Farm"
-          },
-          "measurement": {
-            "displayName": "Boned and Rolled Joint (min. 1kg)"
-          },
-          "pricePerUnit": "£32.00/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/3fc00748d11a0c645bcb13e3a867d05f7887f1153649b4be72b206b1824049ea/Farmdrop_21.2.181316_Lamb_Loin_B_R.jpg",
-              "position": 1
-            }
-          ],
-          "variants": [],
-          "saleText": null,
-          "price": {
-            "pence": 3200
-          },
-          "salePrice": {
-            "pence": 3200
-          }
-        },
-        {
-          "name": "100% Pasture Fed Organic Lamb Ribs (Whole Breast)",
-          "producer": {
-            "name": "Proper Food Collective"
-          },
-          "measurement": {
-            "displayName": "With bone (700g)"
-          },
-          "pricePerUnit": "£14.31/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/ec1fe294cb601043c6380a1e6be079f23164730d6359f31362c742234ae2e394/hogget_breast_208.jpg",
-              "position": 1
-            }
-          ],
-          "variants": [],
-          "saleText": null,
-          "price": {
-            "pence": 1002
-          },
-          "salePrice": null
-        },
-        {
-          "name": "Shetland X Romney Lamb Rack of Ribs (Whole Breast)",
-          "producer": {
-            "name": "Fernhill Farm"
-          },
-          "measurement": {
-            "displayName": "With bone (700g)"
-          },
-          "pricePerUnit": "£14.27/kg",
-          "media": [
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/77bba2f031e36f6e67fb05f7c2d7ffe74ea15516b38457a5160513a7536bf074/Lamb_breastFD20_July130793.jpg",
-              "position": 1
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/78d46c36e377b7685f2945a7d20d255b88606a18bd890663cd50b21af9d2b91a/untitled-3.jpg",
-              "position": 2
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/118f84c9faa8607cf09ba2649a48afafa6214b30f1067b9f78c913ed332344ed/untitled-1.jpg",
-              "position": 3
-            },
-            {
-              "type": "Image",
-              "url": "https://fd-v5-api-release.imgix.net/assets/product_images/71b82c8a54991a0a9774ccd8f12532afe2e9636dc93a392c2d7684078eaafe25/untitled-2-2.jpg",
-              "position": 4
-            }
-          ],
-          "variants": [],
-          "saleText": null,
-          "price": {
-            "pence": 999
-          },
-          "salePrice": null
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  productSearch(query: "Lamb Roasting Joints", first: 25) {
+  productSearch(query: "Lamb Roasting Joints", first: 12) {
     nodes {
       name
       producer {
@@ -22,16 +22,8 @@
         price {
           pence
         }
-        saleText
-        salePrice {
-          pence
-        }
       }
-      saleText
       price {
-        pence
-      }
-      salePrice {
         pence
       }
     }
